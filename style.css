@@ -1,0 +1,52 @@
+body{
+    font-family: 'Water Brush', cursive;
+    margin:0px;
+}
+.masud-world{
+   display: flex;  
+}
+.haf-width{
+    width: 50%;
+    margin-left: 90px;
+}
+.haf-width h1{
+    font-size: 50px;
+}
+.masud-world h3{
+    margin-bottom: 40px;
+}
+.masud-world p{
+    margin-bottom: 40px;
+}
+.haf-width span{
+    color:#FFA500 ;
+}
+.haf-width img{
+    width: 100%;
+}
+.haf-width a{
+    text-decoration: none;
+    background-color: #FF7152;
+    padding:10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 10px;
+}
+.masud-world{
+    background-image: url(img/top-banner.png);
+    background-repeat: no-repeat;
+    margin-bottom: 120px;
+}
+.big-dream{
+    display: flex;
+    background-image: url(img/dream-bg.png);
+    background-repeat: no-repeat;
+    margin-bottom: 120px;
+    background-position: right;
+}
+.big-dream p{
+    margin-bottom: 40px;
+}
+.my-pic2{
+    margin-left: -140px;
+}
